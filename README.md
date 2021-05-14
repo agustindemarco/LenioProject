@@ -6,9 +6,6 @@ This project will cover all the knowledge of the bootcamp:
 ♦ JS
 ♦ REACT
 
-# BootCamp Project
-
-
 # Theme: Marvel World 
 
 Pull requests are welcome.
